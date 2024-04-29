@@ -1,8 +1,8 @@
-# Amazon Home Page Clone
+# Amazon Home Page Clone 🛒🛍️🏷️
 
 This project is a replica of the Amazon home page, created using HTML and CSS. It's a simple demonstration of how to recreate the look and feel of one of the world's most popular e-commerce websites.
 
-## Features
+## Features ✨⭐
 
 - **Visual Clone**: This project closely resembles the layout and design of the Amazon home page, making it a great exercise for web development enthusiasts.
 - **HTML and CSS**: The clone is built entirely with HTML and CSS, making it accessible for beginners to understand and modify.
