@@ -7,7 +7,7 @@ This project is a replica of the Amazon home page, created using HTML and CSS. I
 - **Visual Clone**: This project closely resembles the layout and design of the Amazon home page, making it a great exercise for web development enthusiasts.
 - **HTML and CSS**: The clone is built entirely with HTML and CSS, making it accessible for beginners to understand and modify.
 
-## How to View
+## How to View 👀
 
 To view the Amazon Home Page Clone, follow these steps:
 
@@ -17,7 +17,7 @@ To view the Amazon Home Page Clone, follow these steps:
 You'll be able to explore the replica Amazon home page and see how it was put together using HTML and CSS.
 **Don't forget to star the repository if you find it useful or interesting!⭐**
 
-## License
+## License 📝
 
 This project is open-source and available under the [MIT License](LICENSE). You are welcome to use it as a learning resource, modify it, or contribute to its development.
 
