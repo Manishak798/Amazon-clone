@@ -21,10 +21,10 @@ You'll be able to explore the replica Amazon home page and see how it was put to
 
 This project is open-source and available under the [MIT License](LICENSE). You are welcome to use it as a learning resource, modify it, or contribute to its development.
 
-## Project-Link
+## Project-Link 🔗
 Visit link:- https://manishak798.github.io/Amazon-clone/
 
-## Screen-shot of Project
+## Screen-shot of Project 📸
 
 ![image](https://github.com/Manishak798/Amazon-clone/assets/90680330/d1db9701-90fc-4cec-a9ed-02822a5715dd) 
 
